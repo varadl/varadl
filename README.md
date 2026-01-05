@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Varad Lokhande</h1>
-<h3 align="center">Computer Engineering Student • Web Developer • DSA (Java)</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;DSA+with+Java;Placement+Focused;Building+Every+Day&center=true&width=500&height=45">
-</p>
+<h3 align="center">Computer Engineering Student • Web Developer</h3>
 
 ---
 
 ## 🌱 About Me  
 
 🎓 Computer Engineering student at **SPPU**  
-💻 Frontend-focused Web Developer (**HTML, CSS, JavaScript, React**)  
-📊 Practicing **DSA in Java** for placements  
-🚀 Passionate about building projects & improving problem-solving skills  
+💻 Web Developer with a focus on clean UI & functionality  
+🚀 Building real-world projects and improving every day  
 
 ---
 
@@ -22,7 +17,7 @@
 - Web app to track income & expenses  
 - Built using **HTML, CSS & JavaScript**  
 - Clean UI with structured logic  
-- 🔗 Repo: *Add link here*  
+- 🔗 Repo: https://github.com/varadl/Expense-Tracker  
 
 ### 🌐 Portfolio Website  
 - Responsive personal portfolio  
@@ -34,11 +29,11 @@
 
 ---
 
-## 🚧 Currently Focusing On  
+## 🚧 Currently Working On  
 
-✔️ DSA patterns & problem solving  
-✔️ Java for placements  
-✔️ Resume-ready real-world projects  
+✔️ Building better frontend projects  
+✔️ Improving problem-solving skills  
+✔️ Creating resume-ready applications  
 
 ---
 
@@ -61,7 +56,7 @@
 ## ⚙️ Tech Stack  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css,react,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,c,cpp,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -80,5 +75,5 @@
 ---
 
 <p align="center">
-  <i>“Consistency beats motivation.”</i>
+  <i>Focused on building, learning, and growing consistently.</i>
 </p>
