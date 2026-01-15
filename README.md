@@ -23,7 +23,7 @@
 - Responsive personal portfolio  
 - Hosted on **GitHub Pages**  
 - Showcases skills & projects  
-- 🔗 Live: https://varadl.github.io/My-Portfolio/  
+- 🔗 Live: https://varadlokhande.netlify.app/
 
 ✨ More projects coming soon  
 
