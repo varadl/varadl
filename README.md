@@ -1,79 +1,67 @@
-<h1 align="center">Hi 👋, I'm Varad Lokhande</h1>
-<h3 align="center">Computer Engineering Student  </h3>
+<div align="center">
+
+# Hi 👋, I'm Varad Lokhande
+
+### 💻 Computer Engineering Student | Web Developer
+
+</div>
 
 ---
 
-## 🌱 About Me  
+## 👨‍💻 About Me
 
-🎓 Computer Engineering student at **SPPU**  
-💻 Web Developer with a focus on clean UI & functionality  
-🚀 Building real-world projects and improving every day  
-
----
-
-## 🧩 Featured Projects  
-
-### 💸 Expense Tracker  
-- Web app to track income & expenses  
-- Built using **HTML, CSS & JavaScript**  
-- Clean UI with structured logic  
-- 🔗 Repo: https://github.com/varadl/Expense-Tracker  
-
-### 🌐 Portfolio Website  
-- Responsive personal portfolio  
-- Hosted on **GitHub Pages**  
-- Showcases skills & projects  
-- 🔗 Live: https://varadlokhande.netlify.app/
-
-✨ More projects coming soon  
+- 🎓 Computer Engineering student at **SPPU**
+- 🌱 Currently learning **DSA & Modern Web Development**
+- 💡 Passionate about building clean and responsive websites
+- 🚀 Focused on improving development and problem-solving skills
+- ⚡ Building projects and growing consistently
 
 ---
 
-## 🚧 Currently Working On  
+## 🌐 Portfolio
 
-✔️ Building better frontend projects  
-✔️ Improving problem-solving skills  
-✔️ Creating resume-ready applications  
+<div align="center">
 
----
+### 🔗 [Visit My Portfolio](https://varadlokhande.netlify.app/)
 
-## 🔗 Connect With Me  
-
-<p>
-  <a href="https://linkedin.com/in/varad-lokhande-b6044b319">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://instagram.com/varaddd.17">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="mailto:varadlokhande21@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+</div>
 
 ---
 
-## ⚙️ Tech Stack  
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,c,cpp,mongodb,mysql,git,github,vscode" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,c,cpp,mongodb,mysql,git,github,vscode" />
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varadl&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=varadl&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadl&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Focused on building, learning, and growing consistently.</i>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=varadl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+
+<img width="48%" src="https://streak-stats.demolab.com?user=varadl&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```txt
+✔ Building frontend projects
+✔ Improving DSA skills
+✔ Learning React deeply
+✔ Preparing for placements
